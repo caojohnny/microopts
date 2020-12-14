@@ -29,6 +29,7 @@ public class Rounding {
         return (Math.floor(loc.getX())) + 0.5;
     }
 
+    // Source: https://hub.spigotmc.org/stash/projects/SPIGOT/repos/bukkit/browse/src/main/java/org/bukkit/Location.java
     private static class Location {
         private double x;
 
@@ -49,6 +50,7 @@ public class Rounding {
         }
     }
 
+    // Source: https://hub.spigotmc.org/stash/projects/SPIGOT/repos/bukkit/browse/src/main/java/org/bukkit/util/NumberConversions.java
     public static final class NumberConversions {
         private NumberConversions() {
         }
