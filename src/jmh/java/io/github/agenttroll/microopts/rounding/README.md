@@ -16,5 +16,3 @@ Benchmark                    Mode  Cnt  Score   Error  Units
 Rounding.testExternalFloorX  avgt    5  3.316 ± 0.008  ns/op
 Rounding.testGetBlockX       avgt    5  4.809 ± 0.011  ns/op
 ```
-
-# Analysis
