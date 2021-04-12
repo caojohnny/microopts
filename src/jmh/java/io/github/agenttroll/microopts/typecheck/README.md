@@ -1,7 +1,7 @@
 # TypeCheck
 
 This experiment was prompted by the following SpigotMC
-thread: 
+thread: https://www.spigotmc.org/threads/entitytype-vs-instanceof-performance.500394/
 
 # Running
 
