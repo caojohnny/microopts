@@ -18,7 +18,7 @@ even smaller grain of salt.
 # Building
 
 ``` shell
-git clone https://github.com/AgentTroll/microopts.git
+git clone https://github.com/caojohnny/microopts.git
 cd microopts
 ```
 

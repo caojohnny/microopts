@@ -1,4 +1,4 @@
-package io.github.agenttroll.microopts.rounding;
+package io.github.caojohnny.microopts.rounding;
 
 import org.openjdk.jmh.annotations.*;
 

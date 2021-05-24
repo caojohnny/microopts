@@ -1,4 +1,4 @@
-package io.github.agenttroll.microopts.sqrt;
+package io.github.caojohnny.microopts.sqrt;
 
 import org.openjdk.jmh.annotations.*;
 

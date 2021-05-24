@@ -1,4 +1,4 @@
-package io.github.agenttroll.microopts.typecheck;
+package io.github.caojohnny.microopts.typecheck;
 
 import org.openjdk.jmh.annotations.*;
 

@@ -1,4 +1,4 @@
-package io.github.agenttroll.microopts.volatile_uncontended;
+package io.github.caojohnny.microopts.volatile_uncontended;
 
 import org.openjdk.jmh.annotations.*;
 

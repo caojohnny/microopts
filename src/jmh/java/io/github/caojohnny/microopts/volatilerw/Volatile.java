@@ -1,4 +1,4 @@
-package io.github.agenttroll.microopts.volatilerw;
+package io.github.caojohnny.microopts.volatilerw;
 
 import org.openjdk.jmh.annotations.*;
 
